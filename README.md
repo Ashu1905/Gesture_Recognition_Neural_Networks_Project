@@ -64,3 +64,10 @@ Hence I was sucesssfully able to design a gesture recognition model using two di
 For Conv2D I used transfer learning with mobilenet model. <br>
 Both the approaches performed very well with training accuracy of `93.67 %` and `99.85 %` respectively. <br>
 It also performed well on the `validation data` with accuracy of `88.00 %` and `97.00 %`
+
+## **Note**
+The zip file which I have submitted consists of the following things: -
+1. Write-Up
+2. Code file which consists of generator function and model training.
+3. The final (best) model weights - CNN(Transfer Learning) + RNN.
+4. Due to upload limit constraint I have uploaded the final (best) model weights of Conv3D model on github. Link for this weight file - https://github.com/Ashu1905/Gesture_Recognition_Neural_Networks_Project
